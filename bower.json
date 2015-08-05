@@ -1,9 +1,9 @@
 {
-	"name": 'annotator-Comp',
-	"version": '0.0.1',
+	"name": "annotator-Comp",
+	"version": "0.0.1",
 	"main": ["/annotator/annotator-full.min.js", "/annotator/annotator.min.css", "/annotator/annotator.offline.min.js", "/annotator/annotator.touch.css", "/annotator/annotator.touch.min.js"],
 	"ignore": [],
 	"dependencies": {},
 	"devDependencies": {},
-	"homepage": 'https://github.com/Pushpak-R/Annotator-Comp'
+	"homepage": "https://github.com/Pushpak-R/Annotator-Comp"
 }
